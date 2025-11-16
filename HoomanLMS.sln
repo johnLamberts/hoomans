@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hooman.API", "Hooman.API\Hooman.API.csproj", "{2DD5CC1E-B1A8-408C-9B40-494FC543A6C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hooman.Application", "Hooman.Application\Hooman.Application.csproj", "{41C879D1-C297-4EB0-BF7E-5AA1ECFF8B54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hooman.Domain", "Hooman.Domain\Hooman.Domain.csproj", "{4FFAE522-1569-4DED-B17C-97F4EE69F901}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hooman.Infrastructure", "Hooman.Infrastructure\Hooman.Infrastructure.csproj", "{EB8F1A91-D148-4C78-B2FE-AC1B7090DD72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DD5CC1E-B1A8-408C-9B40-494FC543A6C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD5CC1E-B1A8-408C-9B40-494FC543A6C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DD5CC1E-B1A8-408C-9B40-494FC543A6C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD5CC1E-B1A8-408C-9B40-494FC543A6C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41C879D1-C297-4EB0-BF7E-5AA1ECFF8B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C879D1-C297-4EB0-BF7E-5AA1ECFF8B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C879D1-C297-4EB0-BF7E-5AA1ECFF8B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C879D1-C297-4EB0-BF7E-5AA1ECFF8B54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FFAE522-1569-4DED-B17C-97F4EE69F901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FFAE522-1569-4DED-B17C-97F4EE69F901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FFAE522-1569-4DED-B17C-97F4EE69F901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FFAE522-1569-4DED-B17C-97F4EE69F901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB8F1A91-D148-4C78-B2FE-AC1B7090DD72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB8F1A91-D148-4C78-B2FE-AC1B7090DD72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB8F1A91-D148-4C78-B2FE-AC1B7090DD72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB8F1A91-D148-4C78-B2FE-AC1B7090DD72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

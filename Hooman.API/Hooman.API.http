@@ -1,0 +1,6 @@
+@Hooman.API_HostAddress = http://localhost:5277
+
+GET {{Hooman.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
