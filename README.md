@@ -2,7 +2,7 @@
 
 ## ✅ What's Included
 
-### 1. **Module-Based Access Control** ✨ NEW!
+### 1. **Module-Based Access Control** 
 - **10 Pre-configured System Modules:**
   - Dashboard
   - User Management
@@ -26,7 +26,7 @@
   2. **Direct User Module Access** - Override role settings for specific users
   3. **Time-Limited Access** - Temporary module access with expiration
 
-### 2. **Gmail Email Integration** 📧 NEW!
+### 2. **Gmail Email Integration**
 - **Professional Email Templates:**
   - Welcome Email (with verification link)
   - Email Verification
