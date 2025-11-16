@@ -638,31 +638,31 @@ GET    /api/assessments/stats/student/{id} - Student statistics
 ## 🎯 Key Features Highlights
 
 ### **Advanced Course Features**
-✅ Multi-instructor courses
-✅ Prerequisite courses
-✅ Certificate generation
-✅ Enrollment limits
-✅ Free preview lessons
-✅ Course levels (Beginner/Intermediate/Advanced)
-✅ Multi-language support
-✅ Rich media support (videos, PDFs, interactive)
-✅ Progress persistence
-✅ Student notes
+- ✅ Multi-instructor courses
+- ✅ Prerequisite courses
+- ✅ Certificate generation
+- ✅ Enrollment limits
+- ✅ Free preview lessons
+- ✅ Course levels (Beginner/Intermediate/Advanced)
+- ✅ Multi-language support
+- ✅ Rich media support (videos, PDFs, interactive)
+- ✅ Progress persistence
+- ✅ Student notes
 
 ### **Advanced Assessment Features**
-✅ Question banks (reusable)
-✅ Multiple question types
-✅ Auto-grading
-✅ Partial credit
-✅ Time limits
-✅ Attempt limits
-✅ Question randomization
-✅ Answer shuffling
-✅ Delayed feedback
-✅ Proctoring support
-✅ Rubric-based grading
-✅ File submissions
-✅ Peer reviews
+- ✅ Question banks (reusable)
+- ✅ Multiple question types
+- ✅ Auto-grading
+- ✅ Partial credit
+- ✅ Time limits
+- ✅ Attempt limits
+- ✅ Question randomization
+- ✅ Answer shuffling
+- ✅ Delayed feedback
+- ✅ Proctoring support
+- ✅ Rubric-based grading
+- ✅ File submissions
+- ✅ Peer reviews
 
 ---
 
