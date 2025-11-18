@@ -1,3 +1,5 @@
+using Hooman.Domain.Entities.Identity;
+
 namespace Hooman.Domain.Entities.Assessment;
 
 public class AssessmentAttempt

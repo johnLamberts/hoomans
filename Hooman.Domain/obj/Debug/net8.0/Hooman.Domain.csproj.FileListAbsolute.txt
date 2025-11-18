@@ -1,0 +1,12 @@
+/home/johnlambert/Music/hoomans/Hooman.Domain/bin/Debug/net8.0/Hooman.Domain.deps.json
+/home/johnlambert/Music/hoomans/Hooman.Domain/bin/Debug/net8.0/Hooman.Domain.dll
+/home/johnlambert/Music/hoomans/Hooman.Domain/bin/Debug/net8.0/Hooman.Domain.pdb
+/home/johnlambert/Music/hoomans/Hooman.Domain/obj/Debug/net8.0/Hooman.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/johnlambert/Music/hoomans/Hooman.Domain/obj/Debug/net8.0/Hooman.Domain.AssemblyInfoInputs.cache
+/home/johnlambert/Music/hoomans/Hooman.Domain/obj/Debug/net8.0/Hooman.Domain.AssemblyInfo.cs
+/home/johnlambert/Music/hoomans/Hooman.Domain/obj/Debug/net8.0/Hooman.Domain.csproj.CoreCompileInputs.cache
+/home/johnlambert/Music/hoomans/Hooman.Domain/obj/Debug/net8.0/Hooman.Domain.sourcelink.json
+/home/johnlambert/Music/hoomans/Hooman.Domain/obj/Debug/net8.0/Hooman.Domain.dll
+/home/johnlambert/Music/hoomans/Hooman.Domain/obj/Debug/net8.0/refint/Hooman.Domain.dll
+/home/johnlambert/Music/hoomans/Hooman.Domain/obj/Debug/net8.0/Hooman.Domain.pdb
+/home/johnlambert/Music/hoomans/Hooman.Domain/obj/Debug/net8.0/ref/Hooman.Domain.dll

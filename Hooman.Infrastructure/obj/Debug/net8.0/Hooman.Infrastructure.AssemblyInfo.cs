@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hooman.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a92439f6c2cb675735e17e6107823f03a300fcb4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ecfa0ae0c209e1988b34f347066e99bd249916a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hooman.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hooman.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

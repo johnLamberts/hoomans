@@ -1,3 +1,5 @@
+using Hooman.Domain.Entities.Courses;
+
 namespace Hooman.Domain.Entities.Assessment;
 
 public class Assessment
@@ -31,17 +33,4 @@ public class Assessment
     public virtual Lesson? Lesson { get; set; }
     public virtual ICollection<AssessmentQuestion> Questions { get; set; } = new List<AssessmentQuestion>();
     public virtual ICollection<AssessmentAttempt> Attempts { get; set; } = new List<AssessmentAttempt>();
-}
-{
-    public Guid Id { get; set; }
-    public Guid QuestionId { get; set; }
-    public string OptionText { get; set; } = string.Empty;
-    public string? OptionHtml { get; set; }
-    public string? ImageUrl { get; set; }
-    public bool IsCorrect { get; set; } = false;
-    public int DisplayOrder { get; set; } = 0;
-    public string? Feedback { get; set; }
-
-    // Navigation Properties
-    public virtual Question Question { get; set; } = null!;
 }
