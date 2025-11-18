@@ -21,6 +21,11 @@ public class ApplicationDbContext : DbContext
     public DbSet<RefreshToken> RefreshTokens { get; set; }
     public DbSet<AuditLog> AuditLogs { get; set; }
 
+      // Module Tables
+    public DbSet<Module> Modules { get; set; }
+    public DbSet<RoleModule> RoleModules { get; set; }
+    public DbSet<UserModule> UserModules { get; set; }
+
   protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder);

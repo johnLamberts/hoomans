@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hooman.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ecfa0ae0c209e1988b34f347066e99bd249916a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53a65476a784806c7fc1e7f8c31d20d70beccd34")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hooman.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hooman.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
