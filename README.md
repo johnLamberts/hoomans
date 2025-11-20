@@ -1,5 +1,7 @@
 # Hooman Interactive System
  - Powered by AI and is called Hooman to nurture the Learner about modern technology
+ - Focused Ideas will be spared.
+ - Make sure to align it. Thank you
 
 ## ✅ What's Included
 
